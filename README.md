@@ -1,5 +1,7 @@
 # NT-DesempeñoProducto
-## Descripcion Taller
+![foto](https://user-images.githubusercontent.com/101011688/194065232-f2420573-0740-4427-baf4-685cf3b77c5b.png)
+
+## Descripción Taller
 - Construir un programa que permita ingresar N (cantidad digitada por
 el usuario) números enteros y cuente cuantos múltiplos de 2 y de 3
 fueron ingresados (+1)
@@ -20,4 +22,4 @@ dadas+(1.4)
 
 ## Desarrollado Por: Andrea Bedoya
 ### 10/Septiembre/2022
-### Medellìn(Antioquìa)
+### Medellín(Antioquía)
